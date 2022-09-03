@@ -11,7 +11,7 @@ update,
 delete,
 functions,
 like,
-mwildcards,
+wildcards,
 in,
 between,
 Alias
