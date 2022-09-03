@@ -1,0 +1,20 @@
+join נא לעשות את כל התרגילים עד ה
+ב
+https://www.w3schools.com/mysql/exercise.asp
+שזה
+Select,
+Where,
+Order By,
+Insert,
+null,
+update,
+delete,
+functions,
+like,
+mwildcards,
+in,
+between,
+Alias
+
+בנוסף מומלץ מאוד לעבור על כל מה שלמדו פה
+https://www.w3schools.com/mysql/default.asp
